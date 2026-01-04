@@ -1,5 +1,7 @@
 # Telecom ETL Pipeline
 
+Este repositorio incluye archivos de ejemplo para probar el pipeline ETL de telecomunicaciones.
+
 Pipeline ETL desarrollado en Python para la ingesta, transformación y carga de datos de clientes de telecomunicaciones.
 
 El pipeline procesa datos en formato JSON, aplica limpieza y validaciones básicas, y carga el resultado tanto en un archivo CSV final como en una base de datos PostgreSQL.
